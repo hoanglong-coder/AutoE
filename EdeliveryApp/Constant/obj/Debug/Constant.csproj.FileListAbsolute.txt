@@ -10,9 +10,3 @@ C:\EdeliveryApp\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
 C:\EdeliveryApp\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
 C:\EdeliveryApp\Constant\obj\Debug\Constant.dll
 C:\EdeliveryApp\Constant\obj\Debug\Constant.pdb
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\bin\Debug\Constant.dll
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\bin\Debug\Constant.pdb
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\obj\Debug\Constant.dll
-C:\EdeliveryApp\AutoE\EdeliveryApp\Constant\obj\Debug\Constant.pdb
