@@ -22,3 +22,15 @@ C:\EdeliveryApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\EdeliveryApp\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\EdeliveryApp\DAL\obj\Debug\DAL.dll
 C:\EdeliveryApp\DAL\obj\Debug\DAL.pdb
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\DAL.dll.config
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\DAL.dll
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\DAL.pdb
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\EntityFramework.dll
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\EntityFramework.xml
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\obj\Debug\DAL.dll
+C:\EdeliveryApp\AutoE\EdeliveryApp\DAL\obj\Debug\DAL.pdb
