@@ -14,7 +14,7 @@
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <PublishUrl>C:\EdeliveryApp\AutoE\published\</PublishUrl>
-    <Install>false</Install>
+    <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -24,7 +24,6 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/hoanglong-coder/AutoE/main/published/</InstallUrl>
-    <UpdateUrl>http://192.168.100.66:8088/</UpdateUrl>
     <ProductName>Edelivery</ProductName>
     <PublisherName>LongLH</PublisherName>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
