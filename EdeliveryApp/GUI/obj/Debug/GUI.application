@@ -14,14 +14,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="GUI.exe.manifest" size="36371">
+    <dependentAssembly dependencyType="install" codebase="GUI.exe.manifest" size="12918">
       <assemblyIdentity name="GUI.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>U+Kz5gs8PfKD090feUh9ZUIdigTIlsmtjSqBzsAMmGk=</dsig:DigestValue>
+        <dsig:DigestValue>JNWO6U3YuZN+l9uA5yUafTeIREr1ckJ5xrzBOgAAQuw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
